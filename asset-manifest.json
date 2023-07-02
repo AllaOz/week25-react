@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/week25-react/static/css/main.073c9b0a.css",
+    "main.js": "/week25-react/static/js/main.bba5c92c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/week25-react/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/week25-react/index.html",
+    "main.073c9b0a.css.map": "/week25-react/static/css/main.073c9b0a.css.map",
+    "main.bba5c92c.js.map": "/week25-react/static/js/main.bba5c92c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/week25-react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bba5c92c.js"
+  ]
+}
